@@ -1,2 +1,2 @@
 # DjangoLearning
-The first Django 
+Practicing Django
